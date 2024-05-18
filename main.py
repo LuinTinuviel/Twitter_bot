@@ -9,9 +9,9 @@ import chromedriver_autoinstaller
 PROMISED_DL = 150
 PROMISED_UL = 10
 
-TWITTER_EMAIL = "mihaiu.mihaukov@yahoo.com"
+TWITTER_EMAIL = "****"
 TWITTER_PASSWORD = "***"
-TWITTER_USERNAME = 'NetiaUserWro'
+TWITTER_USERNAME = '***'
 
 
 class InternetSpeedTwitterBot:
